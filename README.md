@@ -10,8 +10,25 @@ The cheats are userscripts (JavaScript programs used to modify web pages) and ca
 
 ## Cheats
 
-- Auto Catcher
-- Auto Trainer
+### Auto Catcher
+
+Controls the player to walk back and forth looking for legendary or retro (rarest type) pokémons.
+
+Press `Ctrl+Shift+C` to access the browser console and track the pokémons that appear.
+
+When found, it uses Ultra Balls for retros and Master Balls for legendaries. Make sure to buy a few of each in the market.
+
+It returns to the map automatically and starts the search again.
+
+### Auto Trainer
+
+Keeps training the first pokémon of your team.
+
+Its based on the training accounts by [Sugus2](https://www.delugerpg.net/viewtopic.php?t=6).
+
+Set the desired type in the userscript and battle.
+
+Take into account the type of the first attack of the trained pokémon.
 
 ## Disclaimer
 
