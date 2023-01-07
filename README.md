@@ -2,13 +2,13 @@
 
 DelugeRPG is a 2D Pokémon-based fan-made browser game that consists on walking around maps, battling and capturing Pokémons.
 
-The cheats are userscripts (JavaScript programs used to modify web pages) and can be used through userscript managers, such as [Tampermonkey](https://www.tampermonkey.net/).
+The cheats are userscripts (JavaScript programs that modify web pages) and can be used through userscript managers, such as [Tampermonkey](https://www.tampermonkey.net/).
 
 ## Tampermonkey
 
 Userscript manager available as a browser extension.
 
-To get it running, it's at first necessary to complete a few steps:
+To get it running, it's first necessary to go through a few steps:
 
 1. Install Tampermonkey in your browser
 2. Open the extension panel
@@ -30,13 +30,13 @@ Press `Ctrl+Shift+C` to access the browser console and track the pokémons that 
 
 When found, it uses Ultra Balls for retros and Master Balls for legendaries. Make sure to buy a few of each in the market.
 
-It returns to the map automatically and starts the search again.
+After the catch, it returns to the map automatically and starts the search again.
+
+Make sure to keep *Enable Keyboard Navigation?* option enabled!
 
 ### Auto Trainer
 
-Keeps training the first pokémon of your team.
-
-Its based on the training accounts by [Sugus2](https://www.delugerpg.net/viewtopic.php?t=6).
+Keeps leveling the first pokémon of your team based on the training accounts by [Sugus2](https://www.delugerpg.net/viewtopic.php?t=6).
 
 Set the desired type in the userscript and battle.
 
