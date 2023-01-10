@@ -48,4 +48,4 @@ The purpose of this project is based solely on studying concepts and should NOT 
 
 ## MIT License
 
-This project is available under the MIT License. Read the LICENSE file for more info.
+This project is available under the MIT License. Read the [LICENSE](LICENSE) file for more info.
