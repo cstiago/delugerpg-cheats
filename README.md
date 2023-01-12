@@ -1,24 +1,12 @@
 # DelugeRPG Cheats
 
-DelugeRPG is a 2D Pokémon-based fan-made browser game that consists on walking around maps, battling and capturing Pokémons.
+Cheats written for DelugeRPG, a 2D Pokémon-based fan-made browser game that consists on walking around maps, battling and capturing Pokémons.
 
-The cheats are userscripts (JavaScript programs that modify web pages) and can be used through userscript managers, such as [Tampermonkey](https://www.tampermonkey.net/).
+They can be used through userscript managers, such as [Tampermonkey](https://www.tampermonkey.net/).
 
-## Tampermonkey
+## Disclaimer
 
-Userscript manager available as a browser extension.
-
-To get it running, it's first necessary to go through a few steps:
-
-1. Install Tampermonkey in your browser
-2. Open the extension panel
-3. Access *Dashboard*
-4. Select the tab *[+]* to the left of *Installed Userscripts*
-5. Paste the code of chosen userscript
-6. Press `Ctrl+S` to save it or click on *File* and then *Save*
-7. You're done!
-
-Toggle the userscripts on or off as needed.
+The purpose of this project is based solely on studying concepts and should NOT be used as a way to gain unfair advantages in the game.
 
 ## Cheats
 
@@ -42,9 +30,21 @@ Set the desired type in the userscript and battle.
 
 Take into account the type of the first attack of the trained pokémon.
 
-## Disclaimer
+## Tampermonkey
 
-The purpose of this project is based solely on studying concepts and should NOT be used as a way to gain unfair advantages in the game.
+Userscript manager available as a browser extension.
+
+To get it running, it's first necessary to go through a few steps:
+
+1. Install Tampermonkey in your browser
+2. Open the extension panel
+3. Access *Dashboard*
+4. Select the tab *[+]* to the left of *Installed Userscripts*
+5. Paste the code of chosen userscript
+6. Press `Ctrl+S` to save it or click on *File* and then *Save*
+7. You're done!
+
+Toggle the scripts on or off as needed.
 
 ## MIT License
 
